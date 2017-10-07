@@ -89,7 +89,7 @@ function CGameApp.OnIdle(dwElapse)
 			if avgFps < 25 then
 				--show notice win
 				if _G.lightShadowQuality ~= _G.lowQuality and lowFpsCancel == false then 
-					UIConfirm:Open("当前帧频较低，是否进入低品质模式", 
+					UIConfirm:Open("A taxa de quadros atual é baixa,entrar no modo de baixa qualidade", 
 							function() _G.lightShadowQuality = _G.lowQuality end, function() lowFpsCancel = true end);
 				end
 			elseif avgFps < 60 then
