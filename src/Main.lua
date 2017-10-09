@@ -5,7 +5,7 @@ end
 _dofile 'Config.lua'
 
 _dofile 'src/PlatformFacade.lua'
---写入日志
+--COMENTARIO
 _dofile 'src/core/LogWriter.lua'
 --消息文件
 _G.ClientMsgPath = "msg/";
