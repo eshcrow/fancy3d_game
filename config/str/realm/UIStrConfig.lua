@@ -1,0 +1,33 @@
+﻿UIStrConfig:Add(
+{
+['realm1'] = 'Công Kích:',
+['realm2'] = 'Phòng Ngự:',
+['realm3'] = 'Sinh Mệnh:',
+['realm4'] = 'Sức Bền:',
+['realm5'] = 'Bạo Kích:',
+['realm6'] = 'Chính Xác:',
+['realm7'] = 'Quán Chú',
+['realm8'] = 'Cảnh giới đột phá',
+['realm9'] = 'Buộc nguyên độ kiếp',
+['realm10'] = "VIP Quán chú";
+['realm11'] = 'Nguyên bảo độ kiếp',
+['realm12'] = 'Thoát',
+['realm13'] = 'Né Tránh',
+['realm14'] = '<u> Tiến về thu hoạch </u>',
+['realm15'] = 'Cảnh Giới',
+['realm16'] = 'Tiến giai',
+['realm101'] = 'Cảm ứng cảnh',
+['realm102'] = 'Linh động cảnh',
+['realm103'] = 'Linh Luân cảnh',
+['realm104'] = 'Thần Phách cảnh',
+['realm105'] = 'Dung Thiên cảnh',
+['realm106'] = 'Hóa Thiên cảnh',
+['realm107'] = 'Thông Thiên cảnh',
+['realm108'] = 'Nhục Thân Nan',
+['realm109'] = 'Linh lực nan',
+['realm110'] = 'Thần Phách Nan',
+['realm1001'] = 'Củng cố',
+['realm1002'] = 'Đột phá',
+['realm1003'] = 'Bắt đầu dùng nên cảnh giới',
+}
+)

@@ -1,0 +1,22 @@
+_G.t_achievement={
+[800001]={
+['id'] = 800001,
+['header'] = "Thần dực",
+['name'] = "Nhận được thần dực",
+['group'] = 8,
+['general'] = 0,
+['level'] = 1,
+['next'] = 0,
+['kind'] = 150,
+['type'] = 0,
+['val_type'] = 1,
+['val'] = 1,
+['show_type'] = 2,
+['exp'] = 0,
+['reward'] = "",
+['funid'] = "55",
+['point'] = 5,
+['txt'] = "Nhận được một thần dực",
+['finishLink'] = "Nhận thưởng",
+},
+};

@@ -1,0 +1,28 @@
+﻿UIStrConfig:Add(
+{
+['se1'] = 'Phệ hồn',
+['se2'] = 'Đánh bại các đại lục thần bí quái, có thể đạt được  thuộc tính tăng lên',
+['se3'] = 'Bản địa đồ thuộc tính tăng thêm',
+['se4'] = 'Công kích',
+['se5'] = 'Phòng ngự',
+['se6'] = 'Bạo kích',
+['se7'] = 'Đánh bại lượng cấp quái thu hoạch được thuộc tính tăng thêm',
+['se8'] = 'Phệ hồn tiến độ: ',
+['se9'] = 'Hồn giá trị',
+['se10'] = 'Cần thiết hồn giá trị',
+['se11'] = 'Triệu hoán',
+['se12'] = 'Tiến về phệ hồn',
+['se13'] = 'Hồn giá trị',
+['se14'] = '1/30',
+['se15'] = 'Thành công đánh bại thu hoạch được thuộc tính tăng thêm',
+['se16'] = '<u> Tổng thuộc tính tăng thêm </u>',
+['se17'] = 'Trước mắt hồn giá trị: ',
+['se18'] = 'Cần thiết hồn giá trị:',
+['se19'] = 'Sinh mệnh',
+['se20'] = 'Chính xác',
+['se21'] = 'Né tránh',
+['se22'] = 'Sức bền',
+['se23'] = 'Phá phòng',
+['se24'] = 'sức bền',
+}
+)

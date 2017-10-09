@@ -1,0 +1,28 @@
+StrConfig:Add(
+{
+['zhuansheng001'] = "Chuyển sinh thành công!",
+['zhuansheng002'] = "Chuyển sinh thất bại!",
+['zhuansheng003'] = "Nguyên bảo không đủ!",
+['zhuansheng004'] = "Tự động chuyển sinh",
+['zhuansheng005'] = "Hủy bỏ tự động",
+['zhuansheng006'] = "<font color='#FF0000'>%s</font> Giây sau tự động rời khỏi",
+['zhuansheng007'] = "Tiến vào thất bại",
+['zhuansheng008'] = "Một lần chuyển sinh tiêu hao Nguyên bảo: %s",
+['zhuansheng009'] = "Ngài xác định tiêu hao Nguyên bảo chuyển sinh sao?",
+['zhuansheng010'] = "Đạt tới %s Cấp sau nhưng chuyển sinh!",
+['zhuansheng011'] = "Ngài đã tại chuyển sinh trúng, không cách nào một lần hoàn thành.",
+['zhuansheng012'] = "Ngài đã ở trong hoạt động",
+['zhuansheng013'] = "Kích hoạt Thánh khí",
+['zhuansheng014'] = "Kích hoạt luyện thể",
+['zhuansheng015'] = "Linh thú ngồi cưỡi",
+['zhuansheng016'] = "Chuyển sinh chưa mở ra!",
+['zhuansheng017'] = "Cấp bậc chưa đủ!",
+['zhuansheng018'] = "Trước mắt ở vào PK Trạng thái, không cách nào tiến vào!",
+['zhuansheng019'] = "Trước mắt ngay tại trong hoạt động, không cách nào tiến về!",
+['zhuansheng020'] = "Ngươi đang trong đội ngũ, không thể tiến vào phó bản đơn!",
+['zhuansheng021'] = "Vượt phục đang tiến hành, không cách nào tiến vào phó bản!",
+['zhuansheng022'] = "Thu hồi chuyển sinh",
+['zhuansheng023'] = "Biểu hiện chuyển sinh",
+['zhuansheng024'] = "",
+}
+)

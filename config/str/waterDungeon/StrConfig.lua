@@ -1,0 +1,53 @@
+StrConfig:Add(
+{
+['waterDungeon001'] = "<font color='#00ff00'> Toàn bộ ngày </font>",
+['waterDungeon002'] = "<font color='#00ff00'>%s Cấp trở lên người chơi ( Một mình )</font>",
+['waterDungeon003'] = "Đề cử sử dụng nhiều lần kinh nghiệm đan",
+['waterDungeon004'] = "<font color='#c8c8c8'>%s Sóng </font>",
+['waterDungeon005'] = "Hôm nay có thể vào số lần: <font color='%s'>%s/%s</font>",
+['waterDungeon006'] = [[<textformat leftmargin='5'><font color='#e59607' size='16'> Quy tắc nói rõ: </font><img height='10'/>
+<img width='15' height='15' vspace='-2' src='img://resfile/icon/rulePoint.png'/> Toàn bộ ngày mở ra, giới hạn một mình tiến vào.
+<img width='15' height='15' vspace='-2' src='img://resfile/icon/rulePoint.png'/> Nên phó bản bên trong nhiều lần kinh nghiệm đan vô hiệu.
+<img width='15' height='15' vspace='-2' src='img://resfile/icon/rulePoint.png'/> Có thể đạt được  đại lượng kinh nghiệm ban thưởng, giết quái số lượng càng nhiều, có thể đạt được  kinh nghiệm ban thưởng càng nhiều.
+<img width='15' height='15' vspace='-2' src='img://resfile/icon/rulePoint.png'/> Mỗi ngày có thể miễn phí tiến vào 2 Lần, thời gian cooldown 10 Phút <img height='10'/>
+<img width='15' height='15' vspace='-2' src='img://resfile/icon/rulePoint.png'/> Kim cương VIP Mỗi ngày nhưng tiêu hao vé vào cửa ngoài định mức tiến vào 1 Lần <img height='10'/></textformat>]],
+['waterDungeon007'] = "Có thể dùng số lần không đủ",
+['waterDungeon008'] = "Tổ đội trạng thái không thể tiến vào",
+['waterDungeon009'] = "Vé vào cửa không đủ, không cách nào tiến vào",
+['waterDungeon010'] = "Hôm nay có thể vào số lần:<font color='%s'>%s/%s</font>",
+['waterDungeon011'] = "Cách lần sau tiến vào cần thiết thời gian:<font color='%s'>%s</font>",
+['waterDungeon012'] = "CD Vị trí số không",
+['waterDungeon013'] = "Ngài không phải VIP kim cương",
+['waterDungeon014'] = "Điều kiện không đủ, không cách nào tiến vào",
+['waterDungeon015'] = "Trước mắt sức chiến đấu: <font color='#de8404'>%s</font>",
+['waterDungeon016'] = "Tối cao kinh nghiệm ghi chép: <font color='#de8404'></font>",
+['waterDungeon017'] = "( Kinh nghiệm chỉ chứa đựng đến 24 Điểm, xin mau sớm nhận lấy )",
+['waterDungeon018'] = "<font color='#FFFF00'>%s</font>",
+['waterDungeon101'] = "Kinh nghiệm phó bản bên trong nhiều lần kinh nghiệm đan vô hiệu",
+['waterDungeon102'] = "Tiến độ phó bản trước mắt: ",
+['waterDungeon103'] = "Tổng đánh giết quái vật: ",
+['waterDungeon104'] = "Tổng thu hoạch được kinh nghiệm: ",
+['waterDungeon105'] = "Phó bản kết thúc đếm ngược: ",
+['waterDungeon106'] = "Lại đánh giết <font color= '#00ff00'>%s</font> Cái đổi mới BOSS",
+['waterDungeon107'] = "Nhiều lần kinh nghiệm đan: %s%%",
+['waterDungeon108'] = "Trước mắt thăng cấp kinh nghiệm %.2f%%",
+['waterDungeon109'] = "Trước mắt kinh nghiệm phó bản đang tiến hành, phải chăng xác nhận rời khỏi?",
+['waterDungeon110'] = "Hủy bỏ treo máy",
+['waterDungeon111'] = "Bắt đầu giết quái",
+['waterDungeon112'] = "Mang lên sủng vật, kinh nghiệm phó bản ích lợi tăng lên trên diện rộng",
+['waterDungeon113'] = "<u> Xem xét </u>",
+['waterDungeon201'] = "Tốt nhất sóng số: %s",
+['waterDungeon301'] = "<i><font size='14' color='#29cc00'><font size='18' color='#cc0000'>%s Giây </font> Sau tự động rời khỏi!</font></i>",
+['waterDungeon401'] = "Buộc nguyên không đủ",
+['waterDungeon402'] = "Nguyên bảo không đủ",
+['waterDungeon403'] = "Nhận lấy thất bại",
+['waterDungeon404'] = "Ngân lượng không đủ",
+['waterDungeon410'] = "Ngươi xác định tốn hao <font color='#29cc00'>%s%s</font> Đến thu hoạch <font color='#29cc00'>%s Lần </font> Kinh nghiệm a",
+['waterDungeon450'] = "Ấm áp nhắc nhở: Nhiều lần kinh nghiệm đan ở đây kinh nghiệm phó bản vô hiệu",
+['waterDungeon500'] = "Sử dụng nhiều lần nhận lấy nhưng ngoài định mức thu hoạch được đại lượng kinh nghiệm, phải chăng xác nhận chỉ sử dụng phổ thông nhận lấy?<br/><br/><font color='#29cc00'> Tiểu đề bày ra: Phổ thông nhận lấy rời khỏi phó bản sau, vẫn như cũ có thể tại kinh nghiệm phó bản giao diện tiến hành nhiều lần nhận lấy.</font><br/><font color='#ff0000'>( Kinh này nghiệm nhiều nhất đến chứa đựng đến hôm nay 24 Điểm )</font>",
+['waterDungeon501'] = "%s Không đủ",
+['waterDungeon502'] = "Khiêu chiến tiêu hao <font color='%s'>%s×%s</font>",
+["waterDungeon503"] = "Làm lạnh bên trong <font>%s</font>",
+["waterDungeon504"] = "Lập tức tiến vào",
+}
+)

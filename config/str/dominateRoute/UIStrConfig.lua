@@ -1,0 +1,35 @@
+﻿UIStrConfig:Add(
+{
+['dominateRoute1'] = 'Chọn Chiến',
+['dominateRoute2'] = 'Quét Đãng',
+['dominateRoute3'] = 'Số lần mua sắm',
+['dominateRoute44'] = 'Lĩnh Lấy',
+['dominateRoute9'] = 'Xác thực Nhận',
+['dominateRoute10'] = 'Lấy Tiêu',
+-- Thu hoạch được trang bị
+['dominateRoute11'] = 'Xác thực  Định',
+['dominateRoute20'] = 'Cửa ải rơi xuống: ',
+['dominateRoute21'] = 'Tích lũy thu hoạch được ban thưởng:',
+['dominateRoute31'] = 'Nhất tinh',
+['dominateRoute32'] = 'Nhị tinh',
+['dominateRoute33'] = 'Tam tinh',
+['dominateRoute50'] = 'Hiện tại Tinh cấp: ',
+['dominateRoute51'] = 'Điều kiện thắng lợi: ',
+-- ['dominateRoute52'] = 'Bản quan ban thưởng',
+['dominateRoute53'] = 'Bắt đầu treo máy',
+['dominateRoute54'] = 'Hủy treo máy',
+['dominateRoute55'] = 'Thoát',
+['dominateRoute56'] = 'Tiêu diệt toàn bộ quái vật',
+['dominateRoute57'] = 'Lần đầu qua ải',
+['dominateRoute100'] = 'Lần này khiêu chiến kết thúc!',
+['dominateRoute101'] = 'Không ngừng cố gắng!',
+['dominateRoute102'] = '<u> Kích hoạt VIP</u>',
+['dominateRoute103'] = '<u> Tăng lên VIP</u>',
+['dominateRoute150'] = 'Lập tức hoàn thành',
+--tips
+['dominateRoute501'] = 'Hiện tại chương tiết tất cả cửa ải toàn bộ tam tinh nhưng nhận lấy',
+['dominateRoute502'] = 'Mở bảo rương có thể đạt được : ',
+['dominateRoute600'] = 'Về khiêu chiến',
+['dominateRoute601'] = 'Càn quét hết',
+}
+)

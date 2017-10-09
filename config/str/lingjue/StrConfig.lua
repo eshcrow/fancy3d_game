@@ -1,0 +1,26 @@
+StrConfig:Add(
+{
+['lingjue1'] = "Chưa kích hoạt",
+['lingjue2'] = "<font color='#B68641'> Thuộc tính tăng thêm: </font>",
+['lingjue3'] = "<font color='#F4E036'> Lĩnh hội tiến độ:%s/%s</font>",
+['lingjue4'] = "<font color='#F8E4B8'> Lĩnh hội </font><font color='%s'>(%s)</font>",
+['lingjue5'] = "Hiện tại Linh quyết đã đủ cấp",
+['lingjue6'] = "Đạo cụ không đủ",
+['lingjue7'] = "Đã đạt thành",
+['lingjue8'] = "Chưa đạt thành",
+['lingjue9'] = "Toàn bộ lĩnh hội đạt tới %s Cấp <font color='%s'>(%s/%s) %s</font>",
+['lingjue10'] = "<font color='#00FF00'> Đã đủ cấp </font>",
+['lingjue11'] = "<font color='#00FF00'> Cấp tiếp theo mắt xích </font><br/>",
+['lingjue12'] = "<font color='#E59607'> Toàn bộ Linh quyết đạt tới %s Cấp </font><br/>",
+['lingjue13'] = "<font color='#FF0000'>(%s/%s) Chưa kích hoạt </font><br/>",
+['lingjue14'] = "<font color='#E59607'> Kích hoạt thuộc tính:</font><br/>",
+['lingjue15'] = "Thu thập Linh quyết, gia tăng tự thân thuộc tính",
+['lingjue16'] = "<u><font color='#00FF00'> Thuộc tính tổng tăng thêm </font></u>",
+['lingjue17'] = "<font color='#BE8C44'> Thuộc tính tổng tăng thêm: </font>",
+['lingjue18'] = "<font color='#F4E036'> Lĩnh hội tiêu hao:</font>",
+['lingjue19'] = "<font color='#F8E4B8'> Kích hoạt </font>",
+['lingjue20'] = "<font color='#B68641'> Mỗi lần lĩnh hội thu hoạch được thuộc tính: </font>",
+['lingjue21'] = "",
+['lingjue22'] = "",
+}
+)

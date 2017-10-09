@@ -1,0 +1,37 @@
+﻿StrConfig:Add(
+{
+['shihunhuizhang1'] = "Phệ hồn huy chương tỉ lệ phần trăm tăng lên phệ hồn thuộc tính",
+['shihunhuizhang2'] = "Phệ hồn gia tăng thuộc tính đồng đều có thể hưởng huy chương thuộc tính tăng thêm",
+['shihunhuizhang3'] = "Phệ hồn huy chương đẳng cấp càng cao thuộc tính tăng thêm càng nhiều",
+['shihunhuizhang4'] = "<font color='#EC8E11'> Kích hoạt điều kiện: </font><u><font color='%s'> Hồn giá trị %s</font></u>",
+['shihunhuizhang5'] = "<font color='%s'>%s</font>",
+['shihunhuizhang6'] = "<font color='#ffcc33'> Phệ hồn huy chương LV.%s</font>",
+['shihunhuizhang7'] = "Thuộc tính tăng thêm",
+['shihunhuizhang8'] = "<font color='#00FF00'> Nhấn nút bấm mở ra <font color='#00FF00'>[ Phệ hồn huy chương ]</font> Giao diện </font>",
+['shihunhuizhang9'] = "<font color='#FF0000' size='16'> Phệ hồn huy chương:<font color='#FF0000'>%s</font> Cấp mở ra </font>",
+['shihunhuizhang10'] = "<font color='#ffcc33' size='16'> Phệ hồn huy chương </font><font color='#FF0000' size='16'> Chưa kích hoạt </font><br/><font color='#00FF00'> Nhấn nút bấm mở ra <font color='#00FF00'>[ Phệ hồn huy chương ]</font> Giao diện </font>",
+['shihunhuizhang11'] = "<font color='#00FF00'>( Phệ hồn đã đủ )</font>",
+['shihunhuizhang12'] = "<font color='#FF0000'>( Phệ hồn chưa đầy )</font>",
+['shihunhuizhang13'] = "<font color='#E59607'>%s</font>%s<br/> Tổng thuộc tính:<br/><font color='#00FF00'>%s</font>",
+['shihunhuizhang14'] = "Độ hoàn thành: %s",
+['shihunhuizhang15'] = [[<font size='16'> Huy chương thăng cấp </font>
+Cần thiết hồn giá trị: %s]],
+['shihunhuizhang16'] = [[<font size='16'> Huy chương kích hoạt </font>
+Cần thiết hồn giá trị: %s]],
+['shihunhuizhang17'] = "Hồn giá trị không đủ, không cách nào kích hoạt",
+['shihunhuizhang18'] = "Đã thăng đến đẳng cấp cao nhất",
+['shihunhuizhang19'] = "Hồn giá trị không đủ",
+['shihunhuizhang20'] = "%s<font color='#D5B772'>%s</font>  %s<br/>",
+['shihunhuizhang21'] = "Trước mắt phệ hồn huy chương đã thăng đến đẳng cấp cao nhất",
+['shihunhuizhang22'] = "<font color='#ffcc33'> Huy chương thăng cấp </font><br/> Tiêu hao hồn giá trị: <font color='%s'>%s</font><br/> Huy chương đẳng cấp càng cao, cần thiết tiêu hao hồn giá trị càng nhiều.",
+['shihunhuizhang1001'] = "<font color='#EC8E11'> Công Kích: </font>  <font color='#FFFFFF'>%s</font>",
+['shihunhuizhang1002'] = "<font color='#EC8E11'> Phòng Ngự: </font>  <font color='#FFFFFF'>%s</font>",
+['shihunhuizhang1003'] = "<font color='#EC8E11'> Sinh Mệnh: </font>  <font color='#FFFFFF'>%s</font>",
+['shihunhuizhang1004'] = "<font color='#EC8E11'> Phá Phòng: </font>  <font color='#FFFFFF'>%s</font>",
+['shihunhuizhang1005'] = "<font color='#EC8E11'> Bạo Kích: </font>  <font color='#FFFFFF'>%s</font>",
+['shihunhuizhang1006'] = "<font color='#EC8E11'> Sức Bền: </font>  <font color='#FFFFFF'>%s</font>",
+['shihunhuizhang1007'] = "<font color='#EC8E11'> Né Tránh: </font>  <font color='#FFFFFF'>%s</font>",
+['shihunhuizhang1008'] = "<font color='#EC8E11'> Chính Xác: </font>  <font color='#FFFFFF'>%s</font>",
+['shihunhuizhang1009'] = "<font color='#FFFFFF'> %s</font>",
+}
+);

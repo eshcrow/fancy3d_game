@@ -1,0 +1,31 @@
+﻿StrConfig:Add(
+{
+['magicski1'] = "<font color='#E7D6B5'> Tu luyện tiêu hao:</font><u><font color='#2fe00D'>%sX%s</font></u>", --'#cc0000'><u>%s</u>(%s)</font>",
+['magicski2'] = "<font color='#E7D6B5'> Tu luyện tiêu hao:</font><u><font color='#cc0000'>%sX%s</font></u>", --'#cc0000'><u>%s</u>(%s)</font>",
+['magicskill1'] = "<font color='#2fe00D'>%s</font>)", --"<font color='#2fe00D'><u>%s</u>(%s)</font>",
+['magicskill2'] = "<font color='#cc0000'>%s</font>)", --'#cc0000'><u>%s</u>(%s)</font>",
+['magicskill12'] = "*%s",
+['magicskill3'] = "Tiêu hao: ",
+['magicskill4'] = "( Có được: ",
+['magicskill5'] = "Điều kiện không đủ",
+['magicskill6'] = "Kỹ năng bị động không biểu hiện ra",
+['magicskill7'] = "<font color='#00ff00' > Học tập kỹ năng thành công </font>",  --- add:houxudong date:2016/5/16 17:58:00
+['magicskill8'] = "Học tập kỹ năng thất bại",
+['magicskill9'] = "<font color='#00ff00' > Thăng cấp kỹ năng thành công </font>",
+['magicskil20'] = "Thăng cấp kỹ năng thất bại",
+['magicskil21'] = "<font color='#00ff00' > Đột phá kỹ năng thành công </font>",
+['magicskil22'] = "Đột phá kỹ năng thất bại",
+['magicskil23'] = "Ngân lượng không đủ",
+['quicklyskill'] = "Tạm không thể thăng cấp nhanh chóng",
+['quicklyskil2'] ="Thăng cấp kỹ năng vật phẩm không đủ",
+['quicklyskil3'] ="Kỹ năng đã tồn tại",
+['quicklyskil4'] ="Đã học được lớn nhất đẳng cấp",
+['quicklyskil5'] ="Đẳng cấp không đủ",
+['quicklyskil6'] ="Tọa kỵ cấp bậc hạn chế",
+['quicklyskil7'] ="Bảo kẹp cấp bậc hạn chế",
+['quicklyskil8'] ="Kỵ chiến cấp bậc hạn chế",
+['quicklyskil9'] ="Thần võ cấp bậc hạn chế",
+['quicklyskil10'] ="Người chơi đẳng cấp không đủ",
+['quicklyskil11'] ="Thăng cấp nhanh chóng kỹ năng thất bại",
+}
+)

@@ -1,0 +1,26 @@
+StrConfig:Add(
+{
+['gem1'] = 'Toàn thân tổng bảo thạch đẳng cấp đạt tới: %s Cấp',
+['gem2'] = 'Chưa đạt thành: %s/%s',
+['gem3'] = 'Đã đạt thành',
+['gem4'] = 'Công kích: %s',
+['gem5'] = 'Phòng ngự: %s',
+['gem6'] = 'Sinh mệnh: %s',
+['gem7'] = 'Bạo kích: %s',
+['gem8'] = 'Né tránh: %s',
+['gem9'] = 'Chính xác: %s',
+['gem10'] = 'Sức bền: %s',
+['gem11'] = '%s',
+['gem12'] = 'LV%s',
+['gem13'] = 'Công kích %s',
+['gem14'] = '%s Cấp',
+['gem15'] = 'Mở ra',
+['gem16'] = 'Có thể đem pháp bảo này thạch thăng cấp đến %s Cấp',
+['gem17'] = '%s Cấp',
+['gem18'] = '%s Cấp %s*%s',
+['gem19'] = '',
+['gem20'] = 'Nhưng khảm nạm',
+['gem21'] = 'Có thể thăng cấp',
+['gem22'] = 'Có thể thay đổi',
+}
+);

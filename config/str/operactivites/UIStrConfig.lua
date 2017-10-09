@@ -1,0 +1,21 @@
+﻿UIStrConfig:Add
+{
+['operactivites1'] = 'Nhận lấy',
+['operactivites2'] = 'Lập tức mua',
+['operactivites3'] = 'Hoạt động còn: ',
+['operactivites4'] = 'Hiện tại hoạt động nạp tiền: ',
+['operactivites5'] = 'Nhận lấy số lần: ',
+['operactivites6'] = 'Hiện tại hoạt động nạp tiền: ',
+['operactivites7'] = 'Bản phục tổng bán ra: ',
+['operactivites8'] = 'Còn thừa mua sắm số lần:',
+['operactivites9'] = 'Toàn bộ server: ',
+['operactivites10'] = 'Hiện tại nhân số: ',
+['operactivites17'] = 'Tổng số ngày: ',
+['operactivites18'] = 'Liên tục số ngày: ',
+['operactivites16'] = 'Hiện tại hoạt động tiêu phí: ',
+['operactivites11'] = 'Bang chủ ban thưởng',
+['operactivites12'] = 'Thành viên ban thưởng',
+['operactivites13'] = 'Khai thông VIP',
+['operactivites14'] = 'Mua sắm',
+['operactivites15'] = 'Hối đoái số lần: ',
+}

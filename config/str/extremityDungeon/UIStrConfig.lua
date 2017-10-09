@@ -1,0 +1,25 @@
+﻿UIStrConfig:Add(
+{
+['extremity1'] = 'Cực hạn khiêu chiến',
+['extremity3'] = '<u> Đánh giết xếp hạng </u>',
+['extremity4'] = 'Chiến tích của ta',
+['extremity5'] = 'Tiến vào phó bản',
+['extremity6'] = 'Cực hạn phó bản khiêu chiến bảng xếp hạng',
+['extremity7'] = 'Phó bản truy tung',
+['extremity8'] = 'Hạn định thời gian bên trong giết quái số lượng càng nhiều, thu hoạch được ban thưởng càng cao, đánh bại tiểu quái đạt tới số lượng nhất định sau sẽ xoát ra boss',
+['extremity9'] = 'Hiện tại đánh giết:',
+['extremity10'] = '( Tiến độ đầy sau đem xoát ra BOSS)',
+['extremity11'] = 'Tổng đánh bại BOSS:',
+['extremity12'] = 'Tổng đánh bại quái vật:',
+['extremity13'] = 'Phó bản kết thúc đếm ngược:',
+['extremity14'] = 'Thoát',
+['extremity15'] = '<u> Quy tắc nói rõ </u>',
+['extremity20'] = 'Hạn định thời gian bên trong giết quái số lượng càng nhiều, thu hoạch được ban thưởng càng cao, đánh bại tiểu quái đạt tới số lượng nhất định sau sẽ xoát ra boss',
+['extremity21'] = "<img width='15' height='15' vspace='-2' src='img://resfile/icon/rulePoint.png'/> Cực hạn khiêu chiến  <img width='15' height='15' vspace='3' src='img://resfile/icon/rulePoint.png'/>",
+['extremity22'] = '( Đầy tiến độ sau đem xoát ra BOSS)',
+['extremity51'] = 'Nên BOSS Nhưng rơi xuống vật phẩm',
+['extremity100'] = 'Mở ra thời gian: <font color="#287819"> Toàn bộ ngày </font>',
+['extremity101'] = 'Tham dự điều kiện: <font color="#287819">%s Cấp trở lên người chơi ( Một mình )</font>',
+['extremity102'] = 'Tại hạn định thời gian bên trong đánh giết quái số lượng càng nhiều, thu hoạch được ban thưởng càng cao.',
+}
+)

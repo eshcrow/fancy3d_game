@@ -1,0 +1,26 @@
+_G.t_zhuoyueguide={
+[1]={
+['id'] = 1,
+['order'] = 2,
+['superNum'] = 2,
+['equipNum'] = 11,
+['link'] = "Nguyên bộ 2 Giai trở lên 2 Trác tuyệt trang bị",
+['reward'] = "7,100000000#14,500000",
+['name'] = "Hai trác tuyệt",
+['index'] = 1,
+['attr'] = "attx,15#reflex,10#subdamage,20#dodge_rate,4#super,2#supervalue,30",
+['text'] = "Tinh quang sáng chói: <br/><font size='14'> Thu hoạch được tinh quang sáng chói đặc thù vẻ ngoài, lấp lánh thiên hạ </font><br/><br/> Trác tuyệt một kích: <br/><font size='14'> Tỉ lệ đối mục tiêu tạo thành nhiều lần không nhìn phòng ngự tổn thương </font>",
+},
+[2]={
+['id'] = 2,
+['order'] = 3,
+['superNum'] = 3,
+['equipNum'] = 11,
+['link'] = "Nguyên bộ 3 Giai trở lên 3 Trác tuyệt trang bị",
+['reward'] = "7,300000000#14,1000000",
+['name'] = "Ba trác tuyệt",
+['index'] = 2,
+['attr'] = "attx,36#reflex,24#subdamage,39#dodge_rate,12#super,6#supervalue,75",
+['text'] = "Lôi đình diệu huy: <br/><font size='14'> Toàn thân bị lôi đình đặc hiệu vây quanh, cả thế gian đều chú ý </font><br/><br/> Trác tuyệt một kích: <br/><font size='14'> Tỉ lệ đối mục tiêu tạo thành nhiều lần không nhìn phòng ngự tổn thương </font>",
+},
+};

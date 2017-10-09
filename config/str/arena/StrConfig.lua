@@ -1,0 +1,46 @@
+StrConfig:Add(
+{
+['arena101'] = "Ngân lượng %s Vinh dự %s",
+['arena102'] = "Hạng %s",
+['arena103'] = "Lực Chiến: %s",
+['arena104'] = "%s / %s",
+['arena105'] = "<font color='#e59607'> Cần tiêu phí <font color='#00ff00'>20 Nguyên bảo </font> thêm 1 lần khiêu chiến <br/><font color='#e56a10'><font color='#dcdcdc'> Mỗi ngày nhiều nhất <font color='#00ff00'>5 Lần </font> lần khiêu chiến </font><br/> Trở thành VIP kim cương có thể tăng số lần </font></font>",
+['arena106'] = "<font color='#e59607'> Về không trước mắt thời gian chờ, mỗi lần khiêu chiến cũng sẽ tăng thêm 10 phút chờ <br/> đợi, tính gộp lại vượt qua 40 Phút sau, cần chờ thời gian về không mới có thể tiếp tục khiêu chiến, <br/><font color='#dcdcdc'> Xóa bỏ thời gian chờ, mỗi phút tiêu hao <font color='#00ff00'>1 Nguyên bảo </font>, không đủ 1 Phút theo 1 Phút tính toán </font></font>",
+['arena107'] = "<font color='%s'>%s:%s:%s</font>",
+['arena108'] = " %s",
+['arena109'] = "Hạng <font color='#fb7a2c'>(Thứ %s)</font> Thưởng: ",
+['arena115'] = "<font color='#ffcc33'> Mới chiến báo </font>",
+['arena116'] = "%s Giây trước ",
+['arena117'] = "%s Phút trước ",
+['arena118'] = "%s Giờ trước ",
+['arena119'] = "Ba hạng đầu",
+['arena120'] = "Trở về",
+['arena121'] = "Thành công",
+['arena122'] = "Thất bại",
+['arena123'] = "Hạng %s-%s",
+['arena124'] = "%s về sau",
+['arena125'] = "<font color='#d7d8d8' size='14'> Ngươi muốn tiêu phí <font color='#00ff00' size='14'>%s Nguyên bảo </font>,<br/> thanh trừ thời gian chờ?<br/></font><font color='#00ff00' size='14'>( Mỗi phút tiêu hao 1 Nguyên bảo, không đủ dựa theo 1 Phút tính )</font>",
+['arena126'] = "Thời gian chờ khiêu chiến",
+['arena127'] = "Hôm nay số lần khiêu chiến đã sử dụng hết",
+['arena128'] = "<font color='#d7d8d8' size='14'> Ngươi muốn tốn hao <font color='#00ff00' size='14'>20 Nguyên bảo </font>, gia tăng 1 Lần cơ hội khiêu chiến?</font>",
+['arena129'] = "Rất xin lỗi, ngài trước mắt còn có khiêu chiến số lần, không thể tăng thêm",
+['arena130'] = "Không cần thanh thời gian chờ",
+['arena131'] = "<font color='#d1d1d1'> Ngân lượng <font color='#0fb300'>%s</font> Vinh dự <font color='#0fb300'>%s</font></font>",
+['arena137'] = "%s:%s:%s",
+['arena132'] = "<font color='%s'><font color='#f4a83b'>%s: </font>%s</font>",
+['arena133'] = "<font color='%s'><font color='#f4a83b'>%s: </font>%s</font>",
+['arena134'] = "Thành công nhận thưởng",
+['arena135'] = "%s Ngày trước ",
+['arena136'] = "Ngươi muốn khiêu chiến luôn?",
+['arena138'] = "Ngươi không thể khiêu chiến bản thân",
+['arena139'] = "Đã đạt tới hôm nay mua sắm thượng tuyến!",
+['arena140'] = '<font color="#f4a83b"><font color="#f4a83b">%s</font> giây sau nhận thưởng </font>',
+['arena141'] = [[<font color='#e59607' size='16'> Quy tắc nói rõ:</font><img height='10'/>
+<img width='15' height='15' vspace='-2' src='img://resfile/icon/rulePoint.png'/> Tham dự sân thi đấu, khiêu chiến người khác thu hoạch được ban thưởng.
+<img width='15' height='15' vspace='-2' src='img://resfile/icon/rulePoint.png'/> Đánh bại người khác thi đấu xếp hạng lên cao, mỗi ngày nhưng khiêu chiến 15 Lần.
+<img width='15' height='15' vspace='-2' src='img://resfile/icon/rulePoint.png'/> Căn cứ thi đấu xếp hạng mỗi ngày nhưng nhận lấy xếp hạng ban thưởng.
+</textformat>]],
+['arena142'] = "<font color='%s'><font color='#C8C8C8'>%s: </font>%s</font>",
+['arena143'] = "<font color='%s'><font color='#C8C8C8'>%s: </font>%s</font>",
+}
+)

@@ -1,0 +1,26 @@
+﻿UIStrConfig:Add(
+{
+['autoBattle01'] = 'Tự động thiết lập chiến đấu',
+['autoBattle02'] = 'Dược phẩm hao hết lúc, tự động mua',
+['autoBattle03'] = 'Bị công kích, vẫn treo máy.',
+['autoBattle04'] = 'Lúc treo máy, bị công kích tự động đánh trả',
+['autoBattle05'] = 'Sau khi chết, tự dùng đạo cụ phục sinh( Đạo cụ không đủ thì không cách nào phục sinh )',
+-- ['autoBattle06'] = 'Treo máy lúc, không chủ động công kích boss, hi hữu quái vật.',
+['autoBattle06'] = 'Lúc treo máy, không chủ động công kích boss.',
+['autoBattle07'] = 'Nhặt',
+['autoBattle08'] = 'Nhặt dược phẩm',
+['autoBattle09'] = 'Nhặt ngân lượng',
+['autoBattle10'] = 'Nhặt vật liệu',
+['autoBattle11'] = 'Mở treo máy',
+['autoBattle12'] = 'Tự nhận thiết lập',
+['autoBattle13'] = 'Lưu Lại',
+['autoBattle14'] = 'Nhắc nhở',
+['autoBattle15'] = 'Ta đã biết',
+['autoBattle16'] = 'Thiết lập',
+['autoBattle17'] = 'Chấp hành',
+['autoBattle18'] = 'Nguyên bảo',
+['autoBattle19'] = 'Buộc nguyên',
+['autoBattle20'] = "<font color='#00FF00'> Mới nhất GM Giao diện Phím tắt đã đổi thành: G 5</font>",
+['autoBattle21'] = "<font color='#00FF00'> Mới nhất GM Giao diện Phím tắt đã đổi thành: H</font>",
+}
+)
