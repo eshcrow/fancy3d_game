@@ -1,6 +1,6 @@
 ﻿UIStrConfig:Add(
 {
-['commonConfirm'] = 'Xác định',
-['commonCancel'] = 'Hủy bỏ',
+['commonConfirm'] = 'Definir',
+['commonCancel'] = 'Cancelar',
 }
 );

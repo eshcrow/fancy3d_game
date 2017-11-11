@@ -1,64 +1,64 @@
 ﻿UIStrConfig:Add(
 {
-['mainmenu1'] = 'Nhiệm vụ truy tung',-- Chủ giao diện bên trong đã cải thành sử dụng văn tự hình ảnh thay thế, cái này đã mất đi hiệu lực
-['mainmenu2'] = 'Nhiệm vụ đạo cụ',
-['mainmenu3'] = 'Sử dụng',
--- Nhỏ địa đồ ngôn ngữ biểu
-["mainmenuMap01"] = 'Bảng xếp hạng',
--- Phục sinh bảng
-["mainmenuRevive01"] = "Hồi sinh",
-["mainmenuRevive02"] = "Đạo cụ không đủ lúc, tự động mua sắm, ưu tiên khấu trừ buộc nguyên",
--- ["mainmenuRevive02"] = "Tự động mua sắm, ưu tiên tiêu hao buộc nguyên",
-["mainmenuRevive03"] = "Đia điểm hồi sinh",
-["mainmenuRevive04"] = "Hồi sinh an toàn",
-["mainmenuRevive05"] = "<u> Mua nhanh </u>",
--- Chủ giao diện công năng cột
-["mainmenuFunc01"] = "Nhân vật",
-["mainmenuFunc02"] = "Ba lô",
-["mainmenuFunc03"] = "Kỹ năng",
-["mainmenuFunc04"] = "Linh thú",
-["mainmenuFunc05"] = "Hảo hữu",
-["mainmenuFunc06"] = "Tọa kỵ",
-["mainmenuFunc07"] = "Đội ngũ",
-["mainmenuFunc08"] = "Bang phái",
-["mainmenuFunc09"] = "Phó bản",
--- Thuộc tính thêm điểm nhắc nhở cửa sổ
-["mainmenuEaleftPointUI01"] = "Nhắc nhở",
-["mainmenuEaleftPointUI02"] = "Thêm điểm nhớ",
--- PK Giao diện kiểu chữ
-["mainmenuPK001"] = "<font color='#cd9d51'>PK[ Hòa bình ]  Không đánh ai cả!</font>",
-["mainmenuPK002"] = "<font color='#2994c4'>PK[ Tổ đội ]  Chỉ đánh thằng ngoài tổ đội!</font>",
-["mainmenuPK003"] = "<font color='#31b84e'>PK[ Quân đoàn]  Đánh thằng ngoài đoàn!</font>",
-["mainmenuPK004"] = "<font color='#525ce1'>PK[ Bản phục ]  Đánh thằng ngoài Bản phục!</font>",
-["mainmenuPK005"] = "<font color='#65c47e'>PK[ Trận doanh ]  Đánh thằng khác trận doanh!</font>",
-["mainmenuPK006"] = "<font color='#c9753a'>PK[ Thiện ác ]  Đánh thằng có tội, trị pk hơn 1!</font>",
-["mainmenuPK007"] = "<font color='#dc2f2f'>PK[ Toàn thể ]  Phệt tất, không tha bố con thằng nào!</font>",
-["mainmenuPK008"] = "<font color='#bca03e'>PK[ Tự đặt ] Tự đặt hình thức pk của bản thân.</font>",
-["mainmenuPK01"] = "PK[ Hòa bình ]  Không đánh ai cả!",
-["mainmenuPK02"] = "PK[ Tổ đội ]  Chỉ đánh thằng ngoài tổ đội!",
-["mainmenuPK03"] = "PK[ Quân đoàn]  Đánh thằng ngoài đoàn!",
-["mainmenuPK04"] = "PK[ Bản phục ]  Đánh thằng ngoài Bản phục!",
-["mainmenuPK05"] = "PK[ Trận doanh ]  Đánh thằng khác trận doanh!",
-["mainmenuPK06"] = "PK[ Thiện ác ]  Đánh thằng có tội, trị pk hơn 1!",
-["mainmenuPK07"] = "PK[ Toàn thể ]  Phệt tất, không tha bố con thằng nào!",
-["mainmenuPK08"] = "PK[ Tự đặt ] Tự đặt hình thức pk của bản thân.",
-["mainmenuDefined001"] = "<font color='#bca03e'> Cùng bang</font>",
-["mainmenuDefined002"] = "<font color='#bca03e'> Kết minh</font>",
-["mainmenuDefined003"] = "<font color='#bca03e'> Đối địch</font>",
-["mainmenuDefined004"] = "<font color='#bca03e'> Cùng đội </font>",
-["mainmenuDefined005"] = "<font color='#bca03e'> Tên đỏ </font>",
-["mainmenuDefined006"] = "<font color='#bca03e'> Tên xám </font>",
--- Rơi xuống xem xét
-["mainmenuDropInfo001"] = "Vật phẩm rơi",
--- Thay đổi trang phục nhắc nhở
-["mainmenuNewEquip001"] = "Trang bị mới",
+['mainmenu1'] = 'Acesso liberado',-- O proprietário da interface interna melhorou usando o script de imagem alternativa, que perdeu seu efeito
+['mainmenu2'] = 'Item da Tarefa',
+['mainmenu3'] = 'Usar',
+-- Idioma Mini Mapa
+["mainmenuMap01"] = 'Rankings',
+-- tabela de Easter
+["mainmenuRevive01"] = "Renascimento",
+["mainmenuRevive02"] = "Item insuficiente, forçar compra automatica..",
+-- ["mainmenuRevive02"] = "Compras automatizadas, prioridade para o consumo de matérias-primas",
+["mainmenuRevive03"] = "Ponto de Ressurreição",
+["mainmenuRevive04"] = "Reviver seguro",
+["mainmenuRevive05"] = "<u> Compra rapida </u>",
+-- Cabeçalho da coluna da interface do Char
+["mainmenuFunc01"] = "Personagem",
+["mainmenuFunc02"] = "Mochila",
+["mainmenuFunc03"] = "Skill",
+["mainmenuFunc04"] = "Mount",
+["mainmenuFunc05"] = "Amigos",
+["mainmenuFunc06"] = "Concluindo",
+["mainmenuFunc07"] = "Equipe",
+["mainmenuFunc08"] = "Guild",
+["mainmenuFunc09"] = "Repetir",
+-- Atributos adicionais janela de lembrete
+["mainmenuEaleftPointUI01"] = "Memorizar",
+["mainmenuEaleftPointUI02"] = "Adicionar ponto",
+-- Interface de estilo PK
+["mainmenuPK001"] = "<font color='#cd9d51'>PK[ Paz ]  Não Atacar ninguém.!</font>",
+["mainmenuPK002"] = "<font color='#2994c4'>PK[ Equipe ]  Não atacar membros equipe!</font>",
+["mainmenuPK003"] = "<font color='#31b84e'>PK[ Guild]  Não atacar membros da Guild!</font>",
+["mainmenuPK004"] = "<font color='#525ce1'>PK[ Renegado ]  Atacar Renegado!</font>",
+["mainmenuPK005"] = "<font color='#65c47e'>PK[ Batle ]  Revidar ataque!</font>",
+["mainmenuPK006"] = "<font color='#c9753a'>PK[ Heroi ]  Atacar PK!</font>",
+["mainmenuPK007"] = "<font color='#dc2f2f'>PK[ Tudo ]  Modo PK(Atacar todos)!</font>",
+["mainmenuPK008"] = "<font color='#bca03e'>PK[ Personal ] Defina o seu próprio formato pk.</font>",
+["mainmenuPK01"] = "PK[ Paz ]  Não Atacar ninguém.!",
+["mainmenuPK02"] = "PK[ Equipe ]  Não atacar membros equipe!",
+["mainmenuPK03"] = "PK[ Guild ]  Não atacar membros da Guild!",
+["mainmenuPK04"] = "PK[ Renegado ]  Atacar Renegado",
+["mainmenuPK05"] = "PK[ Batle ]  Revidar ataque!",
+["mainmenuPK06"] = "PK[ Heroi ]  Atacar PK!",
+["mainmenuPK07"] = "PK[ Tudo ]   Modo PK(Atacar todos)!",
+["mainmenuPK08"] = "PK[ Personal ] Defina o seu próprio formato pk.",
+["mainmenuDefined001"] = "<font color='#bca03e'> Aliado</font>",
+["mainmenuDefined002"] = "<font color='#bca03e'> Links</font>",
+["mainmenuDefined003"] = "<font color='#bca03e'> Inimigo</font>",
+["mainmenuDefined004"] = "<font color='#bca03e'> Equipe </font>",
+["mainmenuDefined005"] = "<font color='#bca03e'> PK </font>",
+["mainmenuDefined006"] = "<font color='#bca03e'> Passivo </font>",
+-- Queda de Item
+["mainmenuDropInfo001"] = "Itens de Drop",
+-- Mudança de roupa
+["mainmenuNewEquip001"] = "Novo Item",
 --PK Cảnh cáo
-['mainmenuPK501'] = 'Ác ý công kích',
-['mainmenuPK502'] = 'Người công kích: ',
-['mainmenuPK510'] = 'Ngài bị ác ý công kích, mời thay đổi PK Hình thức phản kích',
-['killRecord1'] = 'Xác thực địch',
-['killRecord2'] = 'Kẻ thù',
-['killRecord3'] = 'Cừu nhân',
-["mainmenuTransfor1"] ="Click để đổi"
+['mainmenuPK501'] = 'Contra-ataque',
+['mainmenuPK502'] = 'Ofensiva: ',
+['mainmenuPK510'] = 'Foi ofensivo, Alterar forma ofensiva de PK',
+['killRecord1'] = 'Autenticação inimiga',
+['killRecord2'] = 'Inimigo',
+['killRecord3'] = 'Cordeiro',
+["mainmenuTransfor1"] ="Clique para mudar"
 }
 );

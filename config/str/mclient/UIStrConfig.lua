@@ -1,6 +1,6 @@
 UIStrConfig:Add(
 {
-['mclient001'] = 'Chấp nhận',
-['mclient002'] = 'Từ chối',
+['mclient001'] = 'Aceitar',
+['mclient002'] = 'Recusar',
 }
 )
