@@ -1,7 +1,7 @@
 _G.t_baojia={
 [1]={
 ['id'] = 1,
-['name'] = "Hoàng kim giáp",
+['name'] = "Armadura dourada",
 ['name_icon'] = "jinlvyi.png",
 ['ui_sen'] = "sq_dajian.sen",
 ['ui_up_sen'] = "",
