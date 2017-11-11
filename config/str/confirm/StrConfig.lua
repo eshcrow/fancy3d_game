@@ -1,15 +1,15 @@
 StrConfig:Add(
 {
-['confirmName1'] = 'Nhắc',
+['confirmName1'] = 'Lembrar',
 ['confirmName2'] = 'OK',
-['confirmName3'] = 'Hủy',
-['confirmName4'] = 'Đồng ý',
-['confirmName5'] = 'Không',
-['confirmName6'] = 'Về xác nhận',
-['confirmName7'] = 'Mời nhập bang',
-['confirmName8'] = 'Ngươi đã treo máy thời gian dài, hệ thống tự động giúp ngươi ẩn hiệu ứng, tránh giật lag, ổn định chiến đấu',
-['confirmName9'] = 'Khôi phục',
-['confirmName10'] = 'Tiếp tục Ẩn',
-['confirmName11'] = 'Không nhắc nhở lần sau',
+['confirmName3'] = 'Cancelar',
+['confirmName4'] = 'OK',
+['confirmName5'] = 'Não',
+['confirmName6'] = 'Confirmar',
+['confirmName7'] = 'Convite de Estado',
+['confirmName8'] = 'Você ficou muito tempo on, o sistema automaticamente ajuda a esconder o efeito, evitar atraso, estabilizar a luta',
+['confirmName9'] = 'Restaurar',
+['confirmName10'] = 'Ocultar',
+['confirmName11'] = 'Não lembre da próxima vez',
 }
 );

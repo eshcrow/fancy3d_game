@@ -1,5 +1,5 @@
 ﻿UIStrConfig:Add(
 {
-['confirmName1'] = 'Không nhắc nhở lần sau',
+['confirmName1'] = 'Não lembrar',
 }
 );
